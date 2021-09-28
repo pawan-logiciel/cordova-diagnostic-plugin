@@ -53,6 +53,7 @@ var Diagnostic = (function(){
             "RECEIVE_MMS": "RECEIVE_MMS",
             "WRITE_EXTERNAL_STORAGE": "WRITE_EXTERNAL_STORAGE",
             "READ_EXTERNAL_STORAGE": "READ_EXTERNAL_STORAGE",
+            "MANAGE_EXTERNAL_STORAGE": "MANAGE_EXTERNAL_STORAGE",
             "BODY_SENSORS": "BODY_SENSORS"
         };
 
